@@ -1,0 +1,11 @@
+[package]
+name = "rust_cpp"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+
+[dependencies.pyo3]
+version = "0.22.5"
+features = ["auto-initialize"]
